@@ -1,6 +1,6 @@
 Olá, sou o Rodrigo 🙂
 
-Atualmente estudo sistemas de informação na [UFBA](https://www.ufba.br/). Gosto de desenvolver aplicações que busquem facilitar a vida das pessoas. 
+Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolvedor web e mobile que gosta de criar aplicações que busquem facilitar a vida das pessoas. Tamb
 
 ##### Ferramentas atuais
 * React Native - Desenvolvimento mobile
