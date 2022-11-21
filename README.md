@@ -11,7 +11,7 @@ Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolv
 ## Conhecimentos
 
 #### Linguagens
-* JavaScrip
+* JavaScript
 * TypeScript
 * Python
 
