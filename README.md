@@ -35,6 +35,8 @@ Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolv
 * Radix
 * Bootstrap
 * TrailwindCSS
+* Figma
+* Design System
 
 #### Mobile
 * ReactNative
