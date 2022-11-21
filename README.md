@@ -37,6 +37,8 @@ Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolv
 * TrailwindCSS
 * Figma
 * Design System
+* PostCSS
+* SASS
 
 #### Mobile
 * ReactNative
