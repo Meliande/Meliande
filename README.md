@@ -46,6 +46,7 @@ Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolv
 
 #### BackEnd
 * Prisma
+* tRPC
 
 ## Me acompanhe
 
