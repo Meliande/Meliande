@@ -2,7 +2,7 @@ Olá, sou o Rodrigo 🙂
 
 Estudande de sistemas de informação na [UFBA](https://www.ufba.br/). Desenvolvedor web e mobile que gosta de criar aplicações que busquem facilitar a vida das pessoas. Também gosta de se aventurar pelo mundo dos dados.
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=meliande&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Minimun viable products (MVP) Atual 🏆
 * React Native / Expo - Desenvolvimento mobile
